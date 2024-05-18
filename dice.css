@@ -1,0 +1,19 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin:auto;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+body{
+    background-color:  #D6DAC8;
+}
